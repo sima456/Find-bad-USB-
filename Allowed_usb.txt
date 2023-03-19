@@ -1,0 +1,12 @@
+# List of allowed USB devices
+# Each line should be in the format of: VID:PID:Device Description
+
+# Keyboard and Mouse
+04d9:a0b6:USB Keyboard
+04d9:a0b3:USB Mouse
+
+# External Hard Drive
+1058:25a2:Seagate Expansion Drive
+
+# USB Flash Drives
+0951:1666:Kingston DataTraveler 3.0
